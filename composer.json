@@ -1,16 +1,16 @@
 {
-    "name": "andyrusu/json-db",
-    "description": "Simple PHP code for json storage.",
-    "type": "library",
-    "require": {
-        "codeception/codeception": "^2.1@dev",
-        "php": "5.3"
-    },
-    "authors": [
-        {
-            "name": "Andy Rusu",
-            "email": "rusu.andy1@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev"
+  "name": "andyrusu/json-db",
+  "description": "Simple PHP code for json storage.",
+  "type": "library",
+  "minimum-stability": "dev"
+  "require": {
+    "codeception/codeception": "^2.1@dev",
+    "php": "5.3"
+  },
+  "authors": [
+    {
+      "name": "Andy Rusu",
+      "email": "rusu.andy1@gmail.com"
+    }
+  ]
 }
