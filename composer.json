@@ -2,10 +2,12 @@
   "name": "andyrusu/json-db",
   "description": "Simple PHP code for json storage.",
   "type": "library",
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
   "require": {
-    "codeception/codeception": "^2.1@dev",
-    "php": "5.3"
+    "php": ">5.3"
+  },
+  "require-dev": {
+    "codeception/codeception": "*"
   },
   "authors": [
     {
